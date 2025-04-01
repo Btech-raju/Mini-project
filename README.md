@@ -27,11 +27,9 @@ This project leverages **Natural Language Processing (NLP)** to automate the pro
 - **Speech Recognition:** Google Speech-to-Text API  
 - **Text Processing:** Natural Language Toolkit (NLTK), SpaCy  
 - **Summarization Models:** BERT, T5, or GPT-based models  
-- **Database:** SQLite / Firebase (if applicable)  
-- **Frameworks:** Flask / FastAPI (for Web Interface)  
-
+- **Database:** SQLite / Firebase (if applicable)
+  
 ---
-
 
 ## 📖 Usage  
 1. Open the application and start recording or upload an audio file.  
