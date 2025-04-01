@@ -13,6 +13,12 @@ This project leverages **Natural Language Processing (NLP)** to automate the pro
 4. **Minutes Generation** – Formats the summarized text into structured meeting minutes with sections like **Agenda, Discussion, Action Items, and Conclusions**.  
 
 ---
+### Dataset
+1.**from datasets import load_dataset
+  **ds = load_dataset("edinburghcstr/ami", "ihm")
+  
+2.**from datasets import load_dataset
+    ds = load_dataset("edinburghcstr/ami", "sdm")
 
 ## 🚀 Features  
 ✅ **Automated Speech-to-Text Conversion** – Eliminates manual transcription.  
